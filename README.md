@@ -1,0 +1,1 @@
+# Diseno-con-margen-de-shadowing-y-cobertura
