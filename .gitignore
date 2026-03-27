@@ -15,3 +15,6 @@ fig_*.png
 
 # OS
 .DS_Store
+
+# Environment secrets — never commit the real .env file
+.env
